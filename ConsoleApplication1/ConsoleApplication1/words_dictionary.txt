@@ -1,0 +1,5 @@
+family
+cat
+computer
+children
+human

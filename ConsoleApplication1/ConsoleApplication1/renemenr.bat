@@ -1,0 +1,1 @@
+ren D:\Kods\*.txt *.shifr
